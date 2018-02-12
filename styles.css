@@ -1,3 +1,7 @@
+h3 {
+  padding: 3px 0;
+}
+
 .animal-image {
   display: block;
   margin-left: auto;
@@ -21,12 +25,11 @@ ul {
 
 .card-content {
   border: 1px solid #d3d3d3;
-  width: 350px;
+  width: 300px;
   display: inline-block;
   padding: 5px 20px 10px 20px;
   box-shadow: 10px 10px #d3d3d3;
 }
-
 
 .information {
   border: 1px solid #d3d3d3;

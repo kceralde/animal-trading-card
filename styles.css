@@ -4,7 +4,7 @@
   padding-bottom: 5px;
 }
 
-p {
+.fun-fact {
   font-style: italic;
 }
 
@@ -21,6 +21,7 @@ ul {
   width: 350px;
   box-shadow: 10px 10px #d3d3d3;
 }
+
 .primary-content {
   border: 1px solid #d3d3d3;
   padding: .5rem;

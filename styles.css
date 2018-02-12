@@ -11,15 +11,16 @@ ul {
 }
 
 .card-content {
-  border: .5px solid;
+  border: .5px solid #d3d3d3;
   width: 350px;
+  box-shadow: 10px 10px #d3d3d3;
 }
 .primary-content {
-  border: 1px solid;
+  border: 1px solid #d3d3d3;
   padding: .5rem;
 }
 
 .information {
-  border: 1px solid;
+  border: 1px solid #d3d3d3;
   padding: .5rem;
 }

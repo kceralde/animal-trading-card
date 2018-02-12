@@ -1,4 +1,7 @@
 .animal-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   height: 200px;
   width: 300px;
   padding-bottom: 5px;
@@ -17,15 +20,13 @@ ul {
 }
 
 .card-content {
-  border: .5px solid #d3d3d3;
+  border: 1px solid #d3d3d3;
   width: 350px;
+  display: inline-block;
+  padding: 5px 20px 10px 20px;
   box-shadow: 10px 10px #d3d3d3;
 }
 
-.primary-content {
-  border: 1px solid #d3d3d3;
-  padding: .5rem;
-}
 
 .information {
   border: 1px solid #d3d3d3;

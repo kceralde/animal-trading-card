@@ -1,8 +1,14 @@
+.animal-image {
+  height: 200px;
+  width: 300px;
+  padding-bottom: 5px;
+}
+
 p {
   font-style: italic;
 }
 
-.lists span {
+.label {
   font-weight: bold;
 }
 

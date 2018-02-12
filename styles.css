@@ -1,0 +1,25 @@
+p {
+  font-style: italic;
+}
+
+.lists span {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.card-content {
+  border: .5px solid;
+  width: 350px;
+}
+.primary-content {
+  border: 1px solid;
+  padding: .5rem;
+}
+
+.information {
+  border: 1px solid;
+  padding: .5rem;
+}
